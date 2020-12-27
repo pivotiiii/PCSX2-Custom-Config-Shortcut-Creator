@@ -1,4 +1,4 @@
-# PCSX2-Custom-Config-Shortcut-Creator
+# PCSX2 Custom Config&Shortcut Creator
 Very simple batch script to create a custom config and corresponding shortcut for any PS2 .iso file to be launched with PCSX2.
 
 This script requiers nircmd.exe (http://nircmd.nirsoft.net) to be installed in your C:\Windows\System32 folder (or any other folder in your PATH).
