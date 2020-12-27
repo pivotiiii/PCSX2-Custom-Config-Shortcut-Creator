@@ -19,3 +19,5 @@ Usage:
 2. Drag and drop the game's .iso file onto the .bat file.
 
    The config and shortcut will be created for you. In case a custom config is already in use, it will ask if you want to overwrite.
+   
+3. Launch the game using the newly created shortcut and set any settings you want. They will only be used for this game if you launch it using the shortcut.
